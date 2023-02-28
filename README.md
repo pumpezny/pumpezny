@@ -25,7 +25,7 @@
 
 - 🗺️: Exploring Technical Content Writing.
 
-- ❤️: In my free time I play the guitar, listen to music and enjoy life..
+- ❤️: In my free time I play the guitar, listen to music and enjoy this life.
 
-- :mailbox:How to reach me: [![telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=telegram&logoColor=white)](http://t.me/Pyth0n_Developer)
+- :mailbox:How to reach me: [![telegram Badge](https://img.shields.io/badge/-pumpezny-blue?style=flat&logo=telegram&logoColor=white)](http://t.me/Pyth0n_Developer)
 <!--
