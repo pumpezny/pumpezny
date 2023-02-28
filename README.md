@@ -7,7 +7,7 @@
   <a href="https://m.youtube.com/watch?fbclid=PAAabJgIaIcs4PfRc4HHbBMyBkz8O8TmJ3enMY_TgcqGPtvPdOOk6jEEpfUbk&v=GrC44mzZomk&feature=youtu.be">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="http://t.me/PythOn_Developer">
+  <a href="[http://t.me/PythOn_Developer](http://t.me/Pyth0n_Developer)">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
